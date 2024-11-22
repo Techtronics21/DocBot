@@ -8,7 +8,7 @@ DocBot is a RAG-based streamlit application that processes PDF files and allows 
 ![Chatbot Interface](chatbot_interface.jpeg)
 
 
-### Image Extraction
+### Image Extraction (with surrounding context)
 <table>
   <tr>
     <td><img src="image_extraction1.png" alt="Image Extraction Interface 1" width="400"/></td>
